@@ -1,7 +1,12 @@
 {
-  "Name": "ThreeArmedBandit",
-  "ReferencesAndLinks": ["PMID: 25676913"],
-  "Authors": ["James F Cavanagh  jcavanagh@unm.edu"],
-  "License": "",
-  "BIDSVersion": "1.1.1"
+    "Name": "ThreeArmedBandit",
+    "ReferencesAndLinks": [
+        "PMID: 25676913"
+    ],
+    "Authors": [
+        "James F Cavanagh  jcavanagh@unm.edu"
+    ],
+    "License": "CC0",
+    "BIDSVersion": "1.1.1",
+    "DatasetDOI": "10.18112/openneuro.ds003458.v1.0.0"
 }
