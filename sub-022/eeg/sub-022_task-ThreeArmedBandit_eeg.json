@@ -1,0 +1,19 @@
+{
+  "InstitutionName": "University of New Mexico",
+  "InstitutionalDepartmentName": "Psychology",
+  "PowerLineFrequency": 60,
+  "ManufacturersModelName": "Brain Vision ActiChamp",
+  "EEGGround": "AFz",
+  "EEGReference": "CPz",
+  "EEGChannelCount": 64,
+  "EOGChannelCount": 1,
+  "ECGChannelCount": 1,
+  "EMGChannelCount": 1,
+  "TaskName": "ThreeArmedBandit",
+  "MiscChannelCount": 66,
+  "RecordingType": "continuous",
+  "RecordingDuration": 1549.05,
+  "SamplingFrequency": 500,
+  "SubjectArtefactDescription": "not much to say given this was run 8 years ago...",
+  "SoftwareFilters": "n/a"
+}

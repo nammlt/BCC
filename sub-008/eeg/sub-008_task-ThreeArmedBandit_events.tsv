@@ -1,0 +1,1920 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+298.9440000000	n/a	n/a	Fixation	n/a	n/a	S100
+299.9040000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+301.4020000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+301.8620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+302.4300000000	n/a	n/a	Fixation	n/a	n/a	S100
+303.4240000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+303.9300000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+304.3820000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+304.9480000000	n/a	n/a	Fixation	n/a	n/a	S100
+305.8000000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+306.2340000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+306.5160000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+307.0840000000	n/a	n/a	Fixation	n/a	n/a	S100
+308.0740000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+308.9340000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+309.2340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+309.8020000000	n/a	n/a	Fixation	n/a	n/a	S100
+310.7740000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+311.3660000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+311.7700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+312.3380000000	n/a	n/a	Fixation	n/a	n/a	S100
+313.3080000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+313.8060000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+314.1560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+314.7220000000	n/a	n/a	Fixation	n/a	n/a	S100
+315.7640000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+316.3620000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+316.7240000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+317.2920000000	n/a	n/a	Fixation	n/a	n/a	S100
+318.2420000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+318.7740000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+319.0420000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+319.6100000000	n/a	n/a	Fixation	n/a	n/a	S100
+320.6500000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+321.1540000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+321.4940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+322.0620000000	n/a	n/a	Fixation	n/a	n/a	S100
+323.0320000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+323.6060000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+323.9800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+324.5460000000	n/a	n/a	Fixation	n/a	n/a	S100
+325.5580000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+326.2340000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+326.5480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+327.1160000000	n/a	n/a	Fixation	n/a	n/a	S100
+328.0460000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+328.6020000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+328.9500000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+329.5180000000	n/a	n/a	Fixation	n/a	n/a	S100
+330.5280000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+330.9900000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+331.3020000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+331.8680000000	n/a	n/a	Fixation	n/a	n/a	S100
+332.8200000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+333.5900000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+334.0540000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+334.6200000000	n/a	n/a	Fixation	n/a	n/a	S100
+335.4720000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+336.0700000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+336.3560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+336.9220000000	n/a	n/a	Fixation	n/a	n/a	S100
+337.8540000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+338.4100000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+338.7400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+339.3080000000	n/a	n/a	Fixation	n/a	n/a	S100
+340.2280000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+340.7420000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+341.0760000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+341.6420000000	n/a	n/a	Fixation	n/a	n/a	S100
+342.6140000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+343.0700000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+343.4100000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+343.9780000000	n/a	n/a	Fixation	n/a	n/a	S100
+345.0200000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+345.5220000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+345.8620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+346.4300000000	n/a	n/a	Fixation	n/a	n/a	S100
+347.4320000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+347.9500000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+348.2820000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+348.8480000000	n/a	n/a	Fixation	n/a	n/a	S100
+349.7600000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+350.3380000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+350.7500000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+351.3160000000	n/a	n/a	Fixation	n/a	n/a	S100
+352.3080000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+352.7860000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+353.2020000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+353.7680000000	n/a	n/a	Fixation	n/a	n/a	S100
+354.7700000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+355.5100000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+355.9040000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+356.4700000000	n/a	n/a	Fixation	n/a	n/a	S100
+357.4920000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+357.9980000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+358.3060000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+358.8720000000	n/a	n/a	Fixation	n/a	n/a	S100
+359.7840000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+360.2700000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+360.5740000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+361.1420000000	n/a	n/a	Fixation	n/a	n/a	S100
+362.0920000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+362.5620000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+362.8580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+363.4260000000	n/a	n/a	Fixation	n/a	n/a	S100
+364.3580000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+364.8100000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+365.2280000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+365.7940000000	n/a	n/a	Fixation	n/a	n/a	S100
+366.7160000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+367.2180000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+367.6300000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+368.1960000000	n/a	n/a	Fixation	n/a	n/a	S100
+369.1480000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+369.9180000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+370.1820000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+370.7480000000	n/a	n/a	Fixation	n/a	n/a	S100
+371.7700000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+372.2420000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+372.5500000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+373.1160000000	n/a	n/a	Fixation	n/a	n/a	S100
+374.0280000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+374.5220000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+374.9180000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+375.4860000000	n/a	n/a	Fixation	n/a	n/a	S100
+376.4760000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+376.9660000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+377.4360000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+378.0040000000	n/a	n/a	Fixation	n/a	n/a	S100
+378.9060000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+379.4700000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+379.7880000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+380.3560000000	n/a	n/a	Fixation	n/a	n/a	S100
+381.3360000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+382.1460000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+382.5400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+383.1080000000	n/a	n/a	Fixation	n/a	n/a	S100
+384.1100000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+384.9000000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+385.2760000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+385.8440000000	n/a	n/a	Fixation	n/a	n/a	S100
+386.8940000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+387.3560000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+387.6940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+388.2620000000	n/a	n/a	Fixation	n/a	n/a	S100
+389.2520000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+389.8440000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+390.2960000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+390.8640000000	n/a	n/a	Fixation	n/a	n/a	S100
+391.7640000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+392.3320000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+392.7660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+393.3320000000	n/a	n/a	Fixation	n/a	n/a	S100
+394.3140000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+394.8200000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+395.1340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+395.7000000000	n/a	n/a	Fixation	n/a	n/a	S100
+396.7520000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+397.1640000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+397.5360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+398.1020000000	n/a	n/a	Fixation	n/a	n/a	S100
+399.0640000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+399.5400000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+399.9040000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+400.4700000000	n/a	n/a	Fixation	n/a	n/a	S100
+401.5220000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+401.9880000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+402.4060000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+402.9720000000	n/a	n/a	Fixation	n/a	n/a	S100
+403.9540000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+404.4280000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+404.8580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+405.4240000000	n/a	n/a	Fixation	n/a	n/a	S100
+406.4160000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+406.8680000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+407.2920000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+407.8600000000	n/a	n/a	Fixation	n/a	n/a	S100
+408.8320000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+409.3520000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+409.7620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+410.3280000000	n/a	n/a	Fixation	n/a	n/a	S100
+411.3800000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+412.3080000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+412.5800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+413.1480000000	n/a	n/a	Fixation	n/a	n/a	S100
+414.0980000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+414.5680000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+414.9480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+415.5160000000	n/a	n/a	Fixation	n/a	n/a	S100
+416.4360000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+416.8960000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+417.2340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+417.8000000000	n/a	n/a	Fixation	n/a	n/a	S100
+418.8520000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+419.3120000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+419.7360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+420.3020000000	n/a	n/a	Fixation	n/a	n/a	S100
+421.1840000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+421.7000000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+421.9700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+422.5380000000	n/a	n/a	Fixation	n/a	n/a	S100
+423.5780000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+424.1720000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+424.4560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+425.0220000000	n/a	n/a	Fixation	n/a	n/a	S100
+425.9540000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+426.4840000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+426.7740000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+427.3420000000	n/a	n/a	Fixation	n/a	n/a	S100
+428.2720000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+428.8880000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+429.1920000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+429.7600000000	n/a	n/a	Fixation	n/a	n/a	S100
+430.6120000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+431.1160000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+431.5440000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+432.1120000000	n/a	n/a	Fixation	n/a	n/a	S100
+433.1120000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+433.6160000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+434.0800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+434.6460000000	n/a	n/a	Fixation	n/a	n/a	S100
+435.6880000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+436.1640000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+436.4660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+437.0320000000	n/a	n/a	Fixation	n/a	n/a	S100
+437.9140000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+438.6360000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+439.0000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+439.5680000000	n/a	n/a	Fixation	n/a	n/a	S100
+440.6080000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+441.1720000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+441.5360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+442.1020000000	n/a	n/a	Fixation	n/a	n/a	S100
+443.0740000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+443.5880000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+443.8540000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+444.4220000000	n/a	n/a	Fixation	n/a	n/a	S100
+445.2820000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+445.9040000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+446.2220000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+446.7900000000	n/a	n/a	Fixation	n/a	n/a	S100
+447.7200000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+448.3720000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+448.7920000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+449.3580000000	n/a	n/a	Fixation	n/a	n/a	S100
+450.3400000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+450.8080000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+451.2260000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+451.7940000000	n/a	n/a	Fixation	n/a	n/a	S100
+452.7640000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+453.2200000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+453.4780000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+454.0460000000	n/a	n/a	Fixation	n/a	n/a	S100
+454.9260000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+455.4880000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+455.9300000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+456.4960000000	n/a	n/a	Fixation	n/a	n/a	S100
+457.4780000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+458.1480000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+458.4980000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+459.0660000000	n/a	n/a	Fixation	n/a	n/a	S100
+460.0960000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+460.5880000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+461.0000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+461.5680000000	n/a	n/a	Fixation	n/a	n/a	S100
+462.5580000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+463.1560000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+463.5860000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+464.1520000000	n/a	n/a	Fixation	n/a	n/a	S100
+465.0440000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+465.6880000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+466.0880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+466.6540000000	n/a	n/a	Fixation	n/a	n/a	S100
+467.5660000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+468.1000000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+468.4900000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+469.0560000000	n/a	n/a	Fixation	n/a	n/a	S100
+470.0780000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+470.5200000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+470.8740000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+471.4420000000	n/a	n/a	Fixation	n/a	n/a	S100
+472.4620000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+473.0200000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+473.2920000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+473.8600000000	n/a	n/a	Fixation	n/a	n/a	S100
+474.8120000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+475.3280000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+475.7780000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+476.3460000000	n/a	n/a	Fixation	n/a	n/a	S100
+477.2960000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+477.9160000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+478.3300000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+478.8980000000	n/a	n/a	Fixation	n/a	n/a	S100
+479.8980000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+480.4200000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+480.7980000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+481.3660000000	n/a	n/a	Fixation	n/a	n/a	S100
+482.4180000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+482.9400000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+483.2680000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+483.8340000000	n/a	n/a	Fixation	n/a	n/a	S100
+484.8060000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+485.2800000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+485.7200000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+486.2860000000	n/a	n/a	Fixation	n/a	n/a	S100
+487.1980000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+487.6320000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+488.0700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+488.6380000000	n/a	n/a	Fixation	n/a	n/a	S100
+489.6000000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+490.1000000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+490.3720000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+490.9400000000	n/a	n/a	Fixation	n/a	n/a	S100
+491.8000000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+492.2520000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+492.7080000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+493.2740000000	n/a	n/a	Fixation	n/a	n/a	S100
+494.3160000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+494.7760000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+495.1600000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+546.1320000000	n/a	n/a	Fixation	n/a	n/a	S100
+547.0940000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+548.5220000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+548.9000000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+549.4680000000	n/a	n/a	Fixation	n/a	n/a	S100
+550.4180000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+551.1060000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+551.4360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+552.0020000000	n/a	n/a	Fixation	n/a	n/a	S100
+552.8940000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+553.5540000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+553.9880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+554.5540000000	n/a	n/a	Fixation	n/a	n/a	S100
+555.5360000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+556.0580000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+556.4900000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+557.0560000000	n/a	n/a	Fixation	n/a	n/a	S100
+558.0880000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+558.5220000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+558.8240000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+559.3920000000	n/a	n/a	Fixation	n/a	n/a	S100
+560.3840000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+560.9140000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+561.2600000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+561.8280000000	n/a	n/a	Fixation	n/a	n/a	S100
+562.7080000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+563.2700000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+563.6620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+564.2280000000	n/a	n/a	Fixation	n/a	n/a	S100
+565.0800000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+565.6420000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+566.0800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+566.6480000000	n/a	n/a	Fixation	n/a	n/a	S100
+567.6680000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+568.2060000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+568.6480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+569.2160000000	n/a	n/a	Fixation	n/a	n/a	S100
+570.2480000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+570.7340000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+571.0340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+571.6020000000	n/a	n/a	Fixation	n/a	n/a	S100
+572.6120000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+573.1100000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+573.5700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+574.1360000000	n/a	n/a	Fixation	n/a	n/a	S100
+575.0680000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+575.5420000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+575.9720000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+576.5380000000	n/a	n/a	Fixation	n/a	n/a	S100
+577.4800000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+577.9740000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+578.4220000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+578.9900000000	n/a	n/a	Fixation	n/a	n/a	S100
+579.9420000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+580.4740000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+580.8080000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+581.3760000000	n/a	n/a	Fixation	n/a	n/a	S100
+582.2760000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+582.6820000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+582.9440000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+583.5100000000	n/a	n/a	Fixation	n/a	n/a	S100
+584.4220000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+584.9580000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+585.2940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+585.8620000000	n/a	n/a	Fixation	n/a	n/a	S100
+586.7140000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+587.4620000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+587.8960000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+588.4640000000	n/a	n/a	Fixation	n/a	n/a	S100
+589.5060000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+590.0180000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+590.4660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+591.0320000000	n/a	n/a	Fixation	n/a	n/a	S100
+592.0840000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+592.5820000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+592.9180000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+593.4840000000	n/a	n/a	Fixation	n/a	n/a	S100
+594.3360000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+594.7540000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+595.1700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+595.7360000000	n/a	n/a	Fixation	n/a	n/a	S100
+596.6080000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+597.1660000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+597.5380000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+598.1040000000	n/a	n/a	Fixation	n/a	n/a	S100
+599.0960000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+599.5860000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+600.0220000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+600.5900000000	n/a	n/a	Fixation	n/a	n/a	S100
+601.4620000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+602.1460000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+602.4580000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+603.0240000000	n/a	n/a	Fixation	n/a	n/a	S100
+603.9260000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+604.4660000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+604.9100000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+605.4760000000	n/a	n/a	Fixation	n/a	n/a	S100
+606.4380000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+606.9140000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+607.2440000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+607.8120000000	n/a	n/a	Fixation	n/a	n/a	S100
+608.6940000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+609.2660000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+609.6300000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+610.1980000000	n/a	n/a	Fixation	n/a	n/a	S100
+611.1780000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+611.6700000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+612.0820000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+612.6480000000	n/a	n/a	Fixation	n/a	n/a	S100
+613.6800000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+614.1300000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+614.4840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+615.0500000000	n/a	n/a	Fixation	n/a	n/a	S100
+616.0920000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+616.6620000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+616.9360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+617.5020000000	n/a	n/a	Fixation	n/a	n/a	S100
+618.4340000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+618.9700000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+619.2700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+619.8380000000	n/a	n/a	Fixation	n/a	n/a	S100
+620.8780000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+621.3420000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+621.7220000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+622.2900000000	n/a	n/a	Fixation	n/a	n/a	S100
+623.2100000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+623.7060000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+624.1240000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+624.6920000000	n/a	n/a	Fixation	n/a	n/a	S100
+625.7020000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+626.1420000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+626.5260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+627.0940000000	n/a	n/a	Fixation	n/a	n/a	S100
+628.0840000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+628.5260000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+628.9780000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+629.5460000000	n/a	n/a	Fixation	n/a	n/a	S100
+630.4260000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+630.9580000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+631.2640000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+631.8300000000	n/a	n/a	Fixation	n/a	n/a	S100
+632.8720000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+633.3660000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+633.8320000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+634.3980000000	n/a	n/a	Fixation	n/a	n/a	S100
+635.4000000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+635.9500000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+636.4000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+636.9680000000	n/a	n/a	Fixation	n/a	n/a	S100
+637.9180000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+638.3340000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+638.6860000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+639.2520000000	n/a	n/a	Fixation	n/a	n/a	S100
+640.1240000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+640.7580000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+641.0200000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+641.5880000000	n/a	n/a	Fixation	n/a	n/a	S100
+642.5680000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+643.1700000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+643.6220000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+644.1900000000	n/a	n/a	Fixation	n/a	n/a	S100
+645.0600000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+645.5380000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+645.8400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+646.4080000000	n/a	n/a	Fixation	n/a	n/a	S100
+647.4600000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+647.9660000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+648.4260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+648.9940000000	n/a	n/a	Fixation	n/a	n/a	S100
+649.9240000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+650.4180000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+650.7440000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+651.3120000000	n/a	n/a	Fixation	n/a	n/a	S100
+652.2720000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+652.8620000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+653.1460000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+653.7140000000	n/a	n/a	Fixation	n/a	n/a	S100
+654.7140000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+655.2700000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+655.5480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+656.1160000000	n/a	n/a	Fixation	n/a	n/a	S100
+656.9960000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+657.5020000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+657.8340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+658.4000000000	n/a	n/a	Fixation	n/a	n/a	S100
+659.2620000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+659.7220000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+660.0020000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+660.5680000000	n/a	n/a	Fixation	n/a	n/a	S100
+661.4800000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+661.8620000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+662.2360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+662.8040000000	n/a	n/a	Fixation	n/a	n/a	S100
+663.7440000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+664.1460000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+664.5380000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+665.1060000000	n/a	n/a	Fixation	n/a	n/a	S100
+665.9660000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+666.4220000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+666.7400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+667.3080000000	n/a	n/a	Fixation	n/a	n/a	S100
+668.2180000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+668.7040000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+669.0420000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+669.6080000000	n/a	n/a	Fixation	n/a	n/a	S100
+670.5500000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+671.0240000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+671.4440000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+672.0100000000	n/a	n/a	Fixation	n/a	n/a	S100
+673.0520000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+673.4480000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+673.7960000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+674.3620000000	n/a	n/a	Fixation	n/a	n/a	S100
+675.2340000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+675.7480000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+676.0300000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+676.5980000000	n/a	n/a	Fixation	n/a	n/a	S100
+677.5580000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+678.0640000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+678.3980000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+678.9660000000	n/a	n/a	Fixation	n/a	n/a	S100
+679.9780000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+680.5920000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+680.9180000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+681.4840000000	n/a	n/a	Fixation	n/a	n/a	S100
+682.4660000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+682.9800000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+683.2520000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+683.8200000000	n/a	n/a	Fixation	n/a	n/a	S100
+684.8500000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+685.2680000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+685.6880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+686.2540000000	n/a	n/a	Fixation	n/a	n/a	S100
+687.1860000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+687.7920000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+688.1400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+688.7060000000	n/a	n/a	Fixation	n/a	n/a	S100
+689.7580000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+690.2240000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+690.5580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+691.1260000000	n/a	n/a	Fixation	n/a	n/a	S100
+692.0660000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+692.5960000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+692.9600000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+693.5280000000	n/a	n/a	Fixation	n/a	n/a	S100
+694.5180000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+695.0640000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+695.4460000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+696.0120000000	n/a	n/a	Fixation	n/a	n/a	S100
+697.0340000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+697.5600000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+698.0140000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+698.5800000000	n/a	n/a	Fixation	n/a	n/a	S100
+699.6320000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+700.1000000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+700.5000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+701.0660000000	n/a	n/a	Fixation	n/a	n/a	S100
+701.9380000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+702.3680000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+702.7180000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+703.2840000000	n/a	n/a	Fixation	n/a	n/a	S100
+704.3360000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+704.8480000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+705.2520000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+705.8200000000	n/a	n/a	Fixation	n/a	n/a	S100
+706.7620000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+707.1880000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+707.4540000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+708.0220000000	n/a	n/a	Fixation	n/a	n/a	S100
+708.9020000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+709.3320000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+709.7900000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+710.3560000000	n/a	n/a	Fixation	n/a	n/a	S100
+711.2280000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+711.6600000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+711.9580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+712.5240000000	n/a	n/a	Fixation	n/a	n/a	S100
+713.5360000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+713.9200000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+714.1920000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+714.7600000000	n/a	n/a	Fixation	n/a	n/a	S100
+715.7020000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+716.2400000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+716.7120000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+717.2780000000	n/a	n/a	Fixation	n/a	n/a	S100
+718.1600000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+718.6920000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+719.0800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+719.6460000000	n/a	n/a	Fixation	n/a	n/a	S100
+720.6780000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+721.1320000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+721.4140000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+721.9820000000	n/a	n/a	Fixation	n/a	n/a	S100
+722.8440000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+723.2480000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+723.6840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+724.2500000000	n/a	n/a	Fixation	n/a	n/a	S100
+725.2920000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+725.7280000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+726.0020000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+726.5680000000	n/a	n/a	Fixation	n/a	n/a	S100
+727.5700000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+728.1120000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+728.5540000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+729.1200000000	n/a	n/a	Fixation	n/a	n/a	S100
+730.1620000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+730.6480000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+730.9880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+731.5560000000	n/a	n/a	Fixation	n/a	n/a	S100
+732.4580000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+732.9960000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+733.3400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+733.9080000000	n/a	n/a	Fixation	n/a	n/a	S100
+734.7600000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+735.2000000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+735.4600000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+736.0260000000	n/a	n/a	Fixation	n/a	n/a	S100
+737.0680000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+737.5320000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+737.8780000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+738.4440000000	n/a	n/a	Fixation	n/a	n/a	S100
+739.4760000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+740.0240000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+740.3300000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+769.7860000000	n/a	n/a	Fixation	n/a	n/a	S100
+770.7960000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+772.6380000000	n/a	n/a	Feedback Null: "No Response"	n/a	n/a	S  4
+773.2040000000	n/a	n/a	Fixation	n/a	n/a	S100
+774.2260000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+775.0720000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+775.3560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+775.9240000000	n/a	n/a	Fixation	n/a	n/a	S100
+776.9740000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+777.5040000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+777.9740000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+778.5420000000	n/a	n/a	Fixation	n/a	n/a	S100
+779.4720000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+780.3320000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+780.6600000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+781.2280000000	n/a	n/a	Fixation	n/a	n/a	S100
+782.1580000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+782.6480000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+783.0460000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+783.6120000000	n/a	n/a	Fixation	n/a	n/a	S100
+784.6440000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+785.2160000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+785.5640000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+786.1300000000	n/a	n/a	Fixation	n/a	n/a	S100
+787.1420000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+787.6000000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+788.0480000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+788.6160000000	n/a	n/a	Fixation	n/a	n/a	S100
+789.5780000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+790.0640000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+790.5340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+791.1020000000	n/a	n/a	Fixation	n/a	n/a	S100
+791.9720000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+792.5040000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+792.9520000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+793.5200000000	n/a	n/a	Fixation	n/a	n/a	S100
+794.4520000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+794.9720000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+795.3040000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+795.8720000000	n/a	n/a	Fixation	n/a	n/a	S100
+796.9120000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+797.3840000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+797.7060000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+798.2740000000	n/a	n/a	Fixation	n/a	n/a	S100
+799.2140000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+799.9360000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+800.3760000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+800.9420000000	n/a	n/a	Fixation	n/a	n/a	S100
+801.9940000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+803.8280000000	n/a	n/a	Feedback Null: "No Response"	n/a	n/a	S  4
+804.3940000000	n/a	n/a	Fixation	n/a	n/a	S100
+805.2860000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+805.7580000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+806.1120000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+806.6800000000	n/a	n/a	Fixation	n/a	n/a	S100
+807.6620000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+808.0900000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+808.4140000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+808.9820000000	n/a	n/a	Fixation	n/a	n/a	S100
+809.8820000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+810.3660000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+810.7660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+811.3340000000	n/a	n/a	Fixation	n/a	n/a	S100
+812.1840000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+812.6780000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+813.0180000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+813.5860000000	n/a	n/a	Fixation	n/a	n/a	S100
+814.6260000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+815.0420000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+815.4540000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+816.0200000000	n/a	n/a	Fixation	n/a	n/a	S100
+817.0420000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+817.6660000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+818.1060000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+818.6720000000	n/a	n/a	Fixation	n/a	n/a	S100
+819.5940000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+820.2060000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+820.4900000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+821.0580000000	n/a	n/a	Fixation	n/a	n/a	S100
+822.0980000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+822.6380000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+823.0580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+823.6260000000	n/a	n/a	Fixation	n/a	n/a	S100
+824.4880000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+825.0980000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+825.3600000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+825.9280000000	n/a	n/a	Fixation	n/a	n/a	S100
+826.9700000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+827.5940000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+828.0120000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+828.5800000000	n/a	n/a	Fixation	n/a	n/a	S100
+829.5620000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+830.1740000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+830.5640000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+831.1320000000	n/a	n/a	Fixation	n/a	n/a	S100
+831.9840000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+832.4860000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+832.8000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+833.3660000000	n/a	n/a	Fixation	n/a	n/a	S100
+834.3980000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+834.9740000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+835.3840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+835.9520000000	n/a	n/a	Fixation	n/a	n/a	S100
+836.9340000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+837.6460000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+837.9540000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+838.5200000000	n/a	n/a	Fixation	n/a	n/a	S100
+839.4420000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+840.0020000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+840.2880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+840.8560000000	n/a	n/a	Fixation	n/a	n/a	S100
+841.7480000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+842.2020000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+842.5580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+843.1240000000	n/a	n/a	Fixation	n/a	n/a	S100
+844.1660000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+844.6220000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+844.9080000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+845.4760000000	n/a	n/a	Fixation	n/a	n/a	S100
+846.4180000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+846.7660000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+847.0600000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+847.6280000000	n/a	n/a	Fixation	n/a	n/a	S100
+848.5380000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+849.2220000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+849.6620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+850.2300000000	n/a	n/a	Fixation	n/a	n/a	S100
+851.2400000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+851.6980000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+851.9980000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+852.5640000000	n/a	n/a	Fixation	n/a	n/a	S100
+853.4860000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+853.9220000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+854.3320000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+854.9000000000	n/a	n/a	Fixation	n/a	n/a	S100
+855.8820000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+856.6620000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+856.9520000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+857.5180000000	n/a	n/a	Fixation	n/a	n/a	S100
+858.5300000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+858.9380000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+859.2040000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+859.7700000000	n/a	n/a	Fixation	n/a	n/a	S100
+860.7520000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+861.1300000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+861.4720000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+862.0380000000	n/a	n/a	Fixation	n/a	n/a	S100
+863.0800000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+863.6780000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+864.1400000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+864.7080000000	n/a	n/a	Fixation	n/a	n/a	S100
+865.7080000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+866.1500000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+866.4420000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+867.0100000000	n/a	n/a	Fixation	n/a	n/a	S100
+868.0600000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+868.5300000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+868.9100000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+869.4780000000	n/a	n/a	Fixation	n/a	n/a	S100
+870.4780000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+871.0900000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+871.5620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+872.1300000000	n/a	n/a	Fixation	n/a	n/a	S100
+873.1500000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+873.5940000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+874.0640000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+874.6320000000	n/a	n/a	Fixation	n/a	n/a	S100
+875.5220000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+876.0460000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+876.3160000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+876.8840000000	n/a	n/a	Fixation	n/a	n/a	S100
+877.9340000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+878.3940000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+878.8180000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+879.3860000000	n/a	n/a	Fixation	n/a	n/a	S100
+880.2860000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+880.8820000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+881.1700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+881.7360000000	n/a	n/a	Fixation	n/a	n/a	S100
+882.5880000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+883.1620000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+883.5220000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+884.0880000000	n/a	n/a	Fixation	n/a	n/a	S100
+884.9600000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+885.4260000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+885.8560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+886.4240000000	n/a	n/a	Fixation	n/a	n/a	S100
+887.2840000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+887.8100000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+888.1420000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+888.7080000000	n/a	n/a	Fixation	n/a	n/a	S100
+889.7500000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+890.1900000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+890.5440000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+891.1100000000	n/a	n/a	Fixation	n/a	n/a	S100
+892.1120000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+892.5740000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+892.8460000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+893.4120000000	n/a	n/a	Fixation	n/a	n/a	S100
+894.4240000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+894.8660000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+895.2480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+895.8140000000	n/a	n/a	Fixation	n/a	n/a	S100
+896.8060000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+897.4460000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+897.7500000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+898.3160000000	n/a	n/a	Fixation	n/a	n/a	S100
+899.1880000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+899.6260000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+900.0500000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+900.6180000000	n/a	n/a	Fixation	n/a	n/a	S100
+901.4800000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+901.9500000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+902.2200000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+902.7860000000	n/a	n/a	Fixation	n/a	n/a	S100
+903.6780000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+904.1340000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+904.4380000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+905.0040000000	n/a	n/a	Fixation	n/a	n/a	S100
+905.8560000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+906.2980000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+906.7400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+907.3060000000	n/a	n/a	Fixation	n/a	n/a	S100
+908.2780000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+908.7300000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+909.0400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+909.6080000000	n/a	n/a	Fixation	n/a	n/a	S100
+910.4800000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+910.9420000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+911.3600000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+911.9260000000	n/a	n/a	Fixation	n/a	n/a	S100
+912.9380000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+913.3340000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+913.7280000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+914.2940000000	n/a	n/a	Fixation	n/a	n/a	S100
+915.2360000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+915.6860000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+916.0460000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+916.6140000000	n/a	n/a	Fixation	n/a	n/a	S100
+917.4740000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+917.9060000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+918.2320000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+918.7980000000	n/a	n/a	Fixation	n/a	n/a	S100
+919.7900000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+920.1620000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+920.6000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+921.1660000000	n/a	n/a	Fixation	n/a	n/a	S100
+922.1680000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+922.5860000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+922.8840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+923.4520000000	n/a	n/a	Fixation	n/a	n/a	S100
+924.4340000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+924.9020000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+925.2360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+925.8040000000	n/a	n/a	Fixation	n/a	n/a	S100
+926.7840000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+927.2060000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+927.6560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+928.2220000000	n/a	n/a	Fixation	n/a	n/a	S100
+929.2640000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+929.7140000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+930.0560000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+930.6240000000	n/a	n/a	Fixation	n/a	n/a	S100
+931.5860000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+932.0260000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+932.4260000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+932.9920000000	n/a	n/a	Fixation	n/a	n/a	S100
+933.9040000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+934.6340000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+935.0940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+935.6620000000	n/a	n/a	Fixation	n/a	n/a	S100
+936.6620000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+937.2220000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+937.6800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+938.2460000000	n/a	n/a	Fixation	n/a	n/a	S100
+939.1580000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+939.7660000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+940.1480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+940.7160000000	n/a	n/a	Fixation	n/a	n/a	S100
+941.7660000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+942.2740000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+942.5660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+943.1340000000	n/a	n/a	Fixation	n/a	n/a	S100
+944.1840000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+944.6540000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+945.0180000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+945.5860000000	n/a	n/a	Fixation	n/a	n/a	S100
+946.4360000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+947.1320000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+947.5860000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+948.1540000000	n/a	n/a	Fixation	n/a	n/a	S100
+949.1960000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+949.7600000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+950.0380000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+950.6060000000	n/a	n/a	Fixation	n/a	n/a	S100
+951.4780000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+952.0840000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+952.5580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+953.1240000000	n/a	n/a	Fixation	n/a	n/a	S100
+954.0760000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+954.5240000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+954.8260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+955.3920000000	n/a	n/a	Fixation	n/a	n/a	S100
+956.3340000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+956.8640000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+957.1940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+957.7620000000	n/a	n/a	Fixation	n/a	n/a	S100
+958.7720000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+959.2600000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+959.7120000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+960.2800000000	n/a	n/a	Fixation	n/a	n/a	S100
+961.2620000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+961.7600000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+962.1320000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+962.6980000000	n/a	n/a	Fixation	n/a	n/a	S100
+963.6800000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+964.2800000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+964.6000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+965.1660000000	n/a	n/a	Fixation	n/a	n/a	S100
+966.1780000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+966.6640000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+967.1180000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+988.3340000000	n/a	n/a	Fixation	n/a	n/a	S100
+989.2660000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+990.5080000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+990.9360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+991.5040000000	n/a	n/a	Fixation	n/a	n/a	S100
+992.5040000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+993.0040000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+993.4720000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+994.0380000000	n/a	n/a	Fixation	n/a	n/a	S100
+995.0500000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+995.5160000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+995.8560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+996.4240000000	n/a	n/a	Fixation	n/a	n/a	S100
+997.3460000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+997.8840000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+998.2760000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+998.8420000000	n/a	n/a	Fixation	n/a	n/a	S100
+999.8540000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1000.3120000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1000.7280000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1001.2940000000	n/a	n/a	Fixation	n/a	n/a	S100
+1002.1760000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1002.6480000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1002.9800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1003.5460000000	n/a	n/a	Fixation	n/a	n/a	S100
+1004.5280000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1004.9520000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1005.3800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1005.9480000000	n/a	n/a	Fixation	n/a	n/a	S100
+1006.8100000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1007.2560000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1007.6500000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1008.2160000000	n/a	n/a	Fixation	n/a	n/a	S100
+1009.1980000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1009.6800000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1010.0020000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1010.5680000000	n/a	n/a	Fixation	n/a	n/a	S100
+1011.4900000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1011.8720000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1012.2020000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1012.7700000000	n/a	n/a	Fixation	n/a	n/a	S100
+1013.7620000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1014.1760000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1014.5540000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1015.1220000000	n/a	n/a	Fixation	n/a	n/a	S100
+1016.0820000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1016.4560000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1016.7400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1017.3060000000	n/a	n/a	Fixation	n/a	n/a	S100
+1018.2380000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1018.8160000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1019.1580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1019.7260000000	n/a	n/a	Fixation	n/a	n/a	S100
+1020.7060000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1021.1800000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1021.4940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1022.0600000000	n/a	n/a	Fixation	n/a	n/a	S100
+1023.0620000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1023.5640000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1023.9280000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1024.4960000000	n/a	n/a	Fixation	n/a	n/a	S100
+1025.4660000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1025.9040000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1026.2960000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1026.8640000000	n/a	n/a	Fixation	n/a	n/a	S100
+1027.8960000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1028.3840000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1028.7820000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1029.3500000000	n/a	n/a	Fixation	n/a	n/a	S100
+1030.2500000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1030.7240000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1031.1500000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1031.7180000000	n/a	n/a	Fixation	n/a	n/a	S100
+1032.6180000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1033.1040000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1033.4860000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1034.0520000000	n/a	n/a	Fixation	n/a	n/a	S100
+1034.9240000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1035.3840000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1035.7380000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1036.3040000000	n/a	n/a	Fixation	n/a	n/a	S100
+1037.3560000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1037.9440000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1038.3900000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1038.9560000000	n/a	n/a	Fixation	n/a	n/a	S100
+1039.8080000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1040.3400000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1040.6580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1041.2240000000	n/a	n/a	Fixation	n/a	n/a	S100
+1042.1960000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1042.7200000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1043.1100000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1043.6760000000	n/a	n/a	Fixation	n/a	n/a	S100
+1044.6180000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1045.1680000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1045.4780000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1046.0460000000	n/a	n/a	Fixation	n/a	n/a	S100
+1046.9060000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1047.3760000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1047.7640000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1048.3300000000	n/a	n/a	Fixation	n/a	n/a	S100
+1049.3220000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1049.7280000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1050.0320000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1050.5980000000	n/a	n/a	Fixation	n/a	n/a	S100
+1051.5500000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1052.1440000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1052.5160000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1053.0840000000	n/a	n/a	Fixation	n/a	n/a	S100
+1053.9660000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1054.4800000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1054.8520000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1055.4180000000	n/a	n/a	Fixation	n/a	n/a	S100
+1056.2800000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1056.6880000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1057.0040000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1057.5700000000	n/a	n/a	Fixation	n/a	n/a	S100
+1058.5420000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1058.9560000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1059.2380000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1059.8060000000	n/a	n/a	Fixation	n/a	n/a	S100
+1060.6760000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1061.1120000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1061.5740000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1062.1400000000	n/a	n/a	Fixation	n/a	n/a	S100
+1063.1420000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1063.6400000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1063.9920000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1064.5600000000	n/a	n/a	Fixation	n/a	n/a	S100
+1065.4800000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1066.1520000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1066.4600000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1067.0280000000	n/a	n/a	Fixation	n/a	n/a	S100
+1067.9480000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1068.4960000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1068.8620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1069.4300000000	n/a	n/a	Fixation	n/a	n/a	S100
+1070.2900000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1070.7840000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1071.2300000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1071.7980000000	n/a	n/a	Fixation	n/a	n/a	S100
+1072.8100000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1073.3560000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1073.6500000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1074.2160000000	n/a	n/a	Fixation	n/a	n/a	S100
+1075.1080000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1075.6680000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1076.0840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1076.6520000000	n/a	n/a	Fixation	n/a	n/a	S100
+1077.6820000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1078.3040000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1078.6200000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1079.1860000000	n/a	n/a	Fixation	n/a	n/a	S100
+1080.2180000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1080.7600000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1081.1880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1081.7560000000	n/a	n/a	Fixation	n/a	n/a	S100
+1082.6660000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1083.1820000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1083.6240000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1084.1900000000	n/a	n/a	Fixation	n/a	n/a	S100
+1085.1420000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1085.6180000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1085.9920000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1086.5600000000	n/a	n/a	Fixation	n/a	n/a	S100
+1087.5100000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1088.0500000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1088.4440000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1089.0120000000	n/a	n/a	Fixation	n/a	n/a	S100
+1090.0520000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1090.6860000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1091.1300000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1091.6960000000	n/a	n/a	Fixation	n/a	n/a	S100
+1092.5780000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1093.0900000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1093.4320000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1093.9980000000	n/a	n/a	Fixation	n/a	n/a	S100
+1094.8700000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1095.4380000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1095.9000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1096.4660000000	n/a	n/a	Fixation	n/a	n/a	S100
+1097.3580000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1097.8860000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1098.1520000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1098.7180000000	n/a	n/a	Fixation	n/a	n/a	S100
+1099.5700000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1100.2100000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1100.6700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1101.2380000000	n/a	n/a	Fixation	n/a	n/a	S100
+1102.1780000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1102.7500000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1103.0560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1103.6220000000	n/a	n/a	Fixation	n/a	n/a	S100
+1104.5740000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1105.1540000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1105.4900000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1106.0580000000	n/a	n/a	Fixation	n/a	n/a	S100
+1106.9980000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1107.4860000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1107.8760000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1108.4420000000	n/a	n/a	Fixation	n/a	n/a	S100
+1109.4140000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1110.0500000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1110.4940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1111.0620000000	n/a	n/a	Fixation	n/a	n/a	S100
+1111.9920000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1112.4220000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1112.8460000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1113.4140000000	n/a	n/a	Fixation	n/a	n/a	S100
+1114.3740000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1114.9820000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1115.4140000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1115.9820000000	n/a	n/a	Fixation	n/a	n/a	S100
+1116.9720000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1117.4420000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1117.8840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1118.4500000000	n/a	n/a	Fixation	n/a	n/a	S100
+1119.4920000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1120.0460000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1120.3840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1120.9520000000	n/a	n/a	Fixation	n/a	n/a	S100
+1121.8040000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1122.3940000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1122.6700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1123.2380000000	n/a	n/a	Fixation	n/a	n/a	S100
+1124.2880000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1124.9340000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1125.2880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1125.8560000000	n/a	n/a	Fixation	n/a	n/a	S100
+1126.8780000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1127.3900000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1127.7240000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1128.2900000000	n/a	n/a	Fixation	n/a	n/a	S100
+1129.2620000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1129.6620000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1130.0580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1130.6260000000	n/a	n/a	Fixation	n/a	n/a	S100
+1131.6280000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1132.0540000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1132.3280000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1132.8940000000	n/a	n/a	Fixation	n/a	n/a	S100
+1133.8060000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1134.2820000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1134.5620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1135.1300000000	n/a	n/a	Fixation	n/a	n/a	S100
+1136.0600000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1136.4780000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1136.8300000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1137.3980000000	n/a	n/a	Fixation	n/a	n/a	S100
+1138.4300000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1139.0740000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1139.4500000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1140.0160000000	n/a	n/a	Fixation	n/a	n/a	S100
+1140.9680000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1141.4900000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1141.9520000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1142.5180000000	n/a	n/a	Fixation	n/a	n/a	S100
+1143.4100000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1143.8700000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1144.2860000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1144.8540000000	n/a	n/a	Fixation	n/a	n/a	S100
+1145.8140000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1146.3100000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1146.5880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1147.1560000000	n/a	n/a	Fixation	n/a	n/a	S100
+1148.0760000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1148.5140000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1148.8060000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1149.3740000000	n/a	n/a	Fixation	n/a	n/a	S100
+1150.3040000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1150.8780000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1151.1920000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1151.7580000000	n/a	n/a	Fixation	n/a	n/a	S100
+1152.6900000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1153.1340000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1153.5940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1154.1600000000	n/a	n/a	Fixation	n/a	n/a	S100
+1155.1320000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1155.5940000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1155.8960000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1156.4620000000	n/a	n/a	Fixation	n/a	n/a	S100
+1157.5040000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1158.1140000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1158.4800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1159.0480000000	n/a	n/a	Fixation	n/a	n/a	S100
+1159.9280000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1160.4940000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1160.9660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1161.5320000000	n/a	n/a	Fixation	n/a	n/a	S100
+1162.5840000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1163.1060000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1163.4180000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1163.9840000000	n/a	n/a	Fixation	n/a	n/a	S100
+1165.0160000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1165.5020000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1165.9020000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1166.4700000000	n/a	n/a	Fixation	n/a	n/a	S100
+1167.4220000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1168.0980000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1168.3880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1168.9560000000	n/a	n/a	Fixation	n/a	n/a	S100
+1170.0060000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1170.5300000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1170.9400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1171.5080000000	n/a	n/a	Fixation	n/a	n/a	S100
+1172.4980000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1173.0860000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1173.5080000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1174.0760000000	n/a	n/a	Fixation	n/a	n/a	S100
+1174.9660000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1175.5700000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1175.8440000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1176.4100000000	n/a	n/a	Fixation	n/a	n/a	S100
+1177.3720000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1177.8420000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1178.2620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1178.8300000000	n/a	n/a	Fixation	n/a	n/a	S100
+1179.8400000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1180.3180000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1180.7800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1181.3480000000	n/a	n/a	Fixation	n/a	n/a	S100
+1182.3300000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1183.0460000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1183.3160000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1205.3000000000	n/a	n/a	Fixation	n/a	n/a	S100
+1206.3400000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1207.1220000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1207.4680000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1208.0340000000	n/a	n/a	Fixation	n/a	n/a	S100
+1208.8960000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1209.3980000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1209.8360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1210.4040000000	n/a	n/a	Fixation	n/a	n/a	S100
+1211.4140000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1211.8380000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1212.2880000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1212.8560000000	n/a	n/a	Fixation	n/a	n/a	S100
+1213.8660000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1214.2780000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1214.6240000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1215.1900000000	n/a	n/a	Fixation	n/a	n/a	S100
+1216.2320000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1216.6980000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1217.0260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1217.5920000000	n/a	n/a	Fixation	n/a	n/a	S100
+1218.5140000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1218.9500000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1219.3100000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1219.8780000000	n/a	n/a	Fixation	n/a	n/a	S100
+1220.7480000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1221.2020000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1221.6460000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1222.2120000000	n/a	n/a	Fixation	n/a	n/a	S100
+1223.1540000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1223.6300000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1224.0480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1224.6140000000	n/a	n/a	Fixation	n/a	n/a	S100
+1225.6460000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1226.1960000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1226.6320000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1227.2000000000	n/a	n/a	Fixation	n/a	n/a	S100
+1228.0500000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1228.6440000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1229.1000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1229.6680000000	n/a	n/a	Fixation	n/a	n/a	S100
+1230.5800000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1231.0560000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1231.4860000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1232.0540000000	n/a	n/a	Fixation	n/a	n/a	S100
+1232.9740000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1233.6200000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1233.9220000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1234.4880000000	n/a	n/a	Fixation	n/a	n/a	S100
+1235.4700000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1235.9160000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1236.2740000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1236.8400000000	n/a	n/a	Fixation	n/a	n/a	S100
+1237.7020000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1238.2400000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1238.5240000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1239.0920000000	n/a	n/a	Fixation	n/a	n/a	S100
+1240.0340000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1240.4920000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1240.8440000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1241.4100000000	n/a	n/a	Fixation	n/a	n/a	S100
+1242.3420000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1242.8840000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1243.1780000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1243.7460000000	n/a	n/a	Fixation	n/a	n/a	S100
+1244.7960000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1245.3440000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1245.7460000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1246.3140000000	n/a	n/a	Fixation	n/a	n/a	S100
+1247.3560000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1247.9440000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1248.2660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1248.8320000000	n/a	n/a	Fixation	n/a	n/a	S100
+1249.7440000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1250.3800000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1250.7000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1251.2680000000	n/a	n/a	Fixation	n/a	n/a	S100
+1252.2880000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1252.8400000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1253.1200000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1253.6860000000	n/a	n/a	Fixation	n/a	n/a	S100
+1254.6380000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1255.1280000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1255.5720000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1256.1380000000	n/a	n/a	Fixation	n/a	n/a	S100
+1257.1200000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1257.6200000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1257.8900000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1258.4560000000	n/a	n/a	Fixation	n/a	n/a	S100
+1259.3480000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1260.0360000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1260.3420000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1260.9080000000	n/a	n/a	Fixation	n/a	n/a	S100
+1261.7600000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1262.3520000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1262.7940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1263.3600000000	n/a	n/a	Fixation	n/a	n/a	S100
+1264.2620000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1264.7840000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1265.0620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1265.6280000000	n/a	n/a	Fixation	n/a	n/a	S100
+1266.5800000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1267.2000000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1267.4640000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1268.0300000000	n/a	n/a	Fixation	n/a	n/a	S100
+1268.9020000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1269.4240000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1269.8660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1270.4320000000	n/a	n/a	Fixation	n/a	n/a	S100
+1271.4740000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1272.0200000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1272.2840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1272.8500000000	n/a	n/a	Fixation	n/a	n/a	S100
+1273.7320000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1274.6360000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1275.0020000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1275.5700000000	n/a	n/a	Fixation	n/a	n/a	S100
+1276.4500000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1277.4520000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1277.9040000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1278.4720000000	n/a	n/a	Fixation	n/a	n/a	S100
+1279.3440000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1279.8960000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1280.1560000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1280.7240000000	n/a	n/a	Fixation	n/a	n/a	S100
+1281.7540000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1282.3560000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1282.7760000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1283.3420000000	n/a	n/a	Fixation	n/a	n/a	S100
+1284.2840000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1284.8120000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1285.1100000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1285.6780000000	n/a	n/a	Fixation	n/a	n/a	S100
+1286.6280000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1287.1520000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1287.5960000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1288.1620000000	n/a	n/a	Fixation	n/a	n/a	S100
+1289.1340000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1289.6040000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1290.0480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1290.6140000000	n/a	n/a	Fixation	n/a	n/a	S100
+1291.5660000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1292.0760000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1292.5320000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1293.1000000000	n/a	n/a	Fixation	n/a	n/a	S100
+1294.0200000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1294.6240000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1295.0180000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1295.5840000000	n/a	n/a	Fixation	n/a	n/a	S100
+1296.5560000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1297.1680000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1297.4860000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1298.0540000000	n/a	n/a	Fixation	n/a	n/a	S100
+1299.0040000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1299.4640000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1299.9040000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1300.4720000000	n/a	n/a	Fixation	n/a	n/a	S100
+1301.4940000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1301.9240000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1302.3740000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1302.9400000000	n/a	n/a	Fixation	n/a	n/a	S100
+1303.8320000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1304.3360000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1304.6260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1305.1920000000	n/a	n/a	Fixation	n/a	n/a	S100
+1306.0540000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1306.4280000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1306.8260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1307.3940000000	n/a	n/a	Fixation	n/a	n/a	S100
+1308.3140000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1308.7280000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1309.1120000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1309.6780000000	n/a	n/a	Fixation	n/a	n/a	S100
+1310.5500000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1311.0880000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1311.4300000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1311.9980000000	n/a	n/a	Fixation	n/a	n/a	S100
+1312.8680000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1313.2720000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1313.5820000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1314.1480000000	n/a	n/a	Fixation	n/a	n/a	S100
+1315.0200000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1315.6320000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1316.0160000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1316.5840000000	n/a	n/a	Fixation	n/a	n/a	S100
+1317.5860000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1318.2240000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1318.6020000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1319.1700000000	n/a	n/a	Fixation	n/a	n/a	S100
+1320.2100000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1320.7560000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1321.0380000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1321.6040000000	n/a	n/a	Fixation	n/a	n/a	S100
+1322.5360000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1323.8760000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1324.2240000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1324.7900000000	n/a	n/a	Fixation	n/a	n/a	S100
+1325.7520000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1326.3640000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1326.7920000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1327.3580000000	n/a	n/a	Fixation	n/a	n/a	S100
+1328.2800000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1328.7040000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1328.9940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1329.5600000000	n/a	n/a	Fixation	n/a	n/a	S100
+1330.4420000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1330.9040000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1331.2120000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1331.7800000000	n/a	n/a	Fixation	n/a	n/a	S100
+1332.8300000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1333.3120000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1333.7640000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1334.3300000000	n/a	n/a	Fixation	n/a	n/a	S100
+1335.2420000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1335.7440000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1336.0820000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1336.6500000000	n/a	n/a	Fixation	n/a	n/a	S100
+1337.6800000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1338.2440000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1338.5340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1339.1020000000	n/a	n/a	Fixation	n/a	n/a	S100
+1340.1320000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1340.5440000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1340.8360000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1341.4020000000	n/a	n/a	Fixation	n/a	n/a	S100
+1342.3940000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1342.9200000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1343.3220000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1343.8880000000	n/a	n/a	Fixation	n/a	n/a	S100
+1344.7700000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1345.5000000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1345.8400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1346.4060000000	n/a	n/a	Fixation	n/a	n/a	S100
+1347.4380000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1347.8640000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1348.1420000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1348.7080000000	n/a	n/a	Fixation	n/a	n/a	S100
+1349.6600000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1350.1560000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1350.6260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1351.1940000000	n/a	n/a	Fixation	n/a	n/a	S100
+1352.1460000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1352.5960000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1352.8780000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1353.4460000000	n/a	n/a	Fixation	n/a	n/a	S100
+1354.3660000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1354.8880000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1355.1800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1355.7480000000	n/a	n/a	Fixation	n/a	n/a	S100
+1356.6080000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1357.1960000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1357.4660000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1358.0320000000	n/a	n/a	Fixation	n/a	n/a	S100
+1359.0840000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1359.5400000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1359.9840000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1360.5500000000	n/a	n/a	Fixation	n/a	n/a	S100
+1361.5320000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1362.0360000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1362.4360000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1363.0020000000	n/a	n/a	Fixation	n/a	n/a	S100
+1364.0340000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1364.8140000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1365.0880000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1365.6540000000	n/a	n/a	Fixation	n/a	n/a	S100
+1366.6260000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1367.2820000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1367.5560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1368.1240000000	n/a	n/a	Fixation	n/a	n/a	S100
+1369.0440000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1369.5300000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1369.8920000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1370.4580000000	n/a	n/a	Fixation	n/a	n/a	S100
+1371.4600000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1371.9340000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1372.2760000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1372.8440000000	n/a	n/a	Fixation	n/a	n/a	S100
+1373.8940000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1374.4180000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1374.7960000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1375.3620000000	n/a	n/a	Fixation	n/a	n/a	S100
+1376.3040000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1376.8620000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1377.2460000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1377.8140000000	n/a	n/a	Fixation	n/a	n/a	S100
+1378.8360000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1379.4660000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1379.8660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1380.4320000000	n/a	n/a	Fixation	n/a	n/a	S100
+1381.2940000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1381.8460000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1382.1840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1382.7520000000	n/a	n/a	Fixation	n/a	n/a	S100
+1383.7820000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1384.2380000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1384.6700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1385.2360000000	n/a	n/a	Fixation	n/a	n/a	S100
+1386.1980000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1386.5980000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1386.9200000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1387.4880000000	n/a	n/a	Fixation	n/a	n/a	S100
+1388.4100000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1389.1980000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1389.4900000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1390.0560000000	n/a	n/a	Fixation	n/a	n/a	S100
+1390.9880000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1391.5180000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1391.9580000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1392.5260000000	n/a	n/a	Fixation	n/a	n/a	S100
+1393.4360000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1393.9980000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1394.3260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1394.8940000000	n/a	n/a	Fixation	n/a	n/a	S100
+1395.7640000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1396.1940000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1396.5280000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1397.0960000000	n/a	n/a	Fixation	n/a	n/a	S100
+1397.9460000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1398.6180000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1398.9640000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1399.5300000000	n/a	n/a	Fixation	n/a	n/a	S100
+1400.5220000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1401.0100000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1401.3320000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1424.5500000000	n/a	n/a	Fixation	n/a	n/a	S100
+1425.5000000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1426.3660000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1426.6340000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1427.2020000000	n/a	n/a	Fixation	n/a	n/a	S100
+1428.0620000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1428.7500000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1429.1360000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1429.7040000000	n/a	n/a	Fixation	n/a	n/a	S100
+1430.6440000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1431.1220000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1431.5040000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1432.0720000000	n/a	n/a	Fixation	n/a	n/a	S100
+1433.1040000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1433.6500000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1434.1060000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1434.6740000000	n/a	n/a	Fixation	n/a	n/a	S100
+1435.6960000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1436.1300000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1436.5260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1437.0920000000	n/a	n/a	Fixation	n/a	n/a	S100
+1438.0640000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1438.5220000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1438.8940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1439.4600000000	n/a	n/a	Fixation	n/a	n/a	S100
+1440.4320000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1440.9580000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1441.3280000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1441.8960000000	n/a	n/a	Fixation	n/a	n/a	S100
+1442.7980000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1443.3700000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1443.7480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1444.3140000000	n/a	n/a	Fixation	n/a	n/a	S100
+1445.2260000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1445.7260000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1446.0320000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1446.6000000000	n/a	n/a	Fixation	n/a	n/a	S100
+1447.5700000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1448.0860000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1448.4340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1449.0020000000	n/a	n/a	Fixation	n/a	n/a	S100
+1449.9120000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1450.5100000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1450.8700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1451.4360000000	n/a	n/a	Fixation	n/a	n/a	S100
+1452.2980000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1452.9180000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1453.2040000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1453.7720000000	n/a	n/a	Fixation	n/a	n/a	S100
+1454.8020000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1455.4780000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1455.7560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1456.3240000000	n/a	n/a	Fixation	n/a	n/a	S100
+1457.2940000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1457.7900000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1458.1240000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1458.6920000000	n/a	n/a	Fixation	n/a	n/a	S100
+1459.6040000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1460.1060000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1460.3760000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1460.9440000000	n/a	n/a	Fixation	n/a	n/a	S100
+1461.9160000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1462.4020000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1462.6960000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1463.2620000000	n/a	n/a	Fixation	n/a	n/a	S100
+1464.2940000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1464.8140000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1465.2640000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1465.8300000000	n/a	n/a	Fixation	n/a	n/a	S100
+1466.7420000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1467.2380000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1467.6980000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1468.2660000000	n/a	n/a	Fixation	n/a	n/a	S100
+1469.1880000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1469.7060000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1470.0180000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1470.5840000000	n/a	n/a	Fixation	n/a	n/a	S100
+1471.5360000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1472.0660000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1472.3700000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1472.9360000000	n/a	n/a	Fixation	n/a	n/a	S100
+1473.7880000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1474.3580000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1474.7720000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1475.3380000000	n/a	n/a	Fixation	n/a	n/a	S100
+1476.1900000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1476.7260000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1477.1900000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1477.7560000000	n/a	n/a	Fixation	n/a	n/a	S100
+1478.7680000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1479.2500000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1479.5580000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1480.1260000000	n/a	n/a	Fixation	n/a	n/a	S100
+1481.1760000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1481.6500000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1482.0940000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1482.6600000000	n/a	n/a	Fixation	n/a	n/a	S100
+1483.5220000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1484.2180000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1484.6620000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1485.2280000000	n/a	n/a	Fixation	n/a	n/a	S100
+1486.1200000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1486.6100000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1487.0300000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1487.5980000000	n/a	n/a	Fixation	n/a	n/a	S100
+1488.5280000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1489.1540000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1489.5160000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1490.0820000000	n/a	n/a	Fixation	n/a	n/a	S100
+1491.0840000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1491.5180000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1491.8840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1492.4520000000	n/a	n/a	Fixation	n/a	n/a	S100
+1493.4920000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1493.9820000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1494.4020000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1494.9700000000	n/a	n/a	Fixation	n/a	n/a	S100
+1495.8920000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1496.4020000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1496.7540000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1497.3220000000	n/a	n/a	Fixation	n/a	n/a	S100
+1498.2220000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1498.8980000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1499.1560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1499.7240000000	n/a	n/a	Fixation	n/a	n/a	S100
+1500.6240000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1501.3440000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1501.7080000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1502.2760000000	n/a	n/a	Fixation	n/a	n/a	S100
+1503.2160000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1503.8360000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1504.2100000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1504.7780000000	n/a	n/a	Fixation	n/a	n/a	S100
+1505.7380000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1506.4320000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1506.8120000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1507.3800000000	n/a	n/a	Fixation	n/a	n/a	S100
+1508.3900000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1508.9240000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1509.3480000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1509.9140000000	n/a	n/a	Fixation	n/a	n/a	S100
+1510.9060000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1511.3360000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1511.8000000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1512.3660000000	n/a	n/a	Fixation	n/a	n/a	S100
+1513.2580000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1513.7120000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1514.1340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1514.7020000000	n/a	n/a	Fixation	n/a	n/a	S100
+1515.6720000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1516.3960000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1516.8200000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1517.3860000000	n/a	n/a	Fixation	n/a	n/a	S100
+1518.2680000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1518.6880000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1519.1540000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1519.7220000000	n/a	n/a	Fixation	n/a	n/a	S100
+1520.7540000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1521.2920000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1521.7560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1522.3240000000	n/a	n/a	Fixation	n/a	n/a	S100
+1523.2960000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1523.8000000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1524.2080000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1524.7760000000	n/a	n/a	Fixation	n/a	n/a	S100
+1525.6360000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1526.3040000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1526.6940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1527.2600000000	n/a	n/a	Fixation	n/a	n/a	S100
+1528.2220000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1528.7920000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1529.1460000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1529.7120000000	n/a	n/a	Fixation	n/a	n/a	S100
+1530.5640000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1531.6400000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1531.9820000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1532.5480000000	n/a	n/a	Fixation	n/a	n/a	S100
+1533.5100000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1533.9120000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1534.3160000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1534.8840000000	n/a	n/a	Fixation	n/a	n/a	S100
+1535.8640000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1536.2480000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1536.6340000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1537.2020000000	n/a	n/a	Fixation	n/a	n/a	S100
+1538.2040000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1538.6160000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1538.9040000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1539.4700000000	n/a	n/a	Fixation	n/a	n/a	S100
+1540.5120000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1541.0520000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1541.4040000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1541.9720000000	n/a	n/a	Fixation	n/a	n/a	S100
+1542.9640000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1543.5600000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1543.8560000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1544.4240000000	n/a	n/a	Fixation	n/a	n/a	S100
+1545.2860000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1545.9480000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1546.3420000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1546.9100000000	n/a	n/a	Fixation	n/a	n/a	S100
+1547.7600000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1548.2480000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1548.6280000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1549.1940000000	n/a	n/a	Fixation	n/a	n/a	S100
+1550.1860000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1550.8800000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1551.2960000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1551.8620000000	n/a	n/a	Fixation	n/a	n/a	S100
+1552.8040000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1553.2920000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1553.7140000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1554.2820000000	n/a	n/a	Fixation	n/a	n/a	S100
+1555.2620000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1555.8960000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1556.2500000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1556.8160000000	n/a	n/a	Fixation	n/a	n/a	S100
+1557.7780000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1558.3120000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1558.5840000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1559.1520000000	n/a	n/a	Fixation	n/a	n/a	S100
+1560.1340000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1560.9480000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1561.2860000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1561.8540000000	n/a	n/a	Fixation	n/a	n/a	S100
+1562.7360000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1563.1800000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1563.6380000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1564.2060000000	n/a	n/a	Fixation	n/a	n/a	S100
+1565.1580000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1565.7080000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1566.1400000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1566.7080000000	n/a	n/a	Fixation	n/a	n/a	S100
+1567.7080000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1568.5480000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1568.9100000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1569.4760000000	n/a	n/a	Fixation	n/a	n/a	S100
+1570.5080000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1571.2160000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1571.4940000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1572.0620000000	n/a	n/a	Fixation	n/a	n/a	S100
+1573.0320000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1573.5000000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1573.9460000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1574.5140000000	n/a	n/a	Fixation	n/a	n/a	S100
+1575.4940000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1576.0120000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1576.3320000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1576.8980000000	n/a	n/a	Fixation	n/a	n/a	S100
+1577.7600000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1578.1720000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1578.4340000000	n/a	n/a	Feedback Loss: "~"	n/a	n/a	S  6
+1579.0000000000	n/a	n/a	Fixation	n/a	n/a	S100
+1579.9120000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1580.3720000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1580.6680000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1581.2360000000	n/a	n/a	Fixation	n/a	n/a	S100
+1582.2560000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1582.8240000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1583.1860000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1583.7540000000	n/a	n/a	Fixation	n/a	n/a	S100
+1584.7360000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1585.3840000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1585.6720000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1586.2400000000	n/a	n/a	Fixation	n/a	n/a	S100
+1587.2500000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1587.9720000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1588.2740000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1588.8420000000	n/a	n/a	Fixation	n/a	n/a	S100
+1589.8620000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1590.4440000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1590.7260000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1591.2920000000	n/a	n/a	Fixation	n/a	n/a	S100
+1592.3440000000	n/a	n/a	Stimulus (Left, Right, Up): X,Y,Z	n/a	n/a	S 23
+1592.9200000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1593.2100000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1593.7780000000	n/a	n/a	Fixation	n/a	n/a	S100
+1594.6800000000	n/a	n/a	Stimulus (Left, Right, Up): X,Z,Y	n/a	n/a	S 32
+1595.1640000000	n/a	n/a	Response: Up	n/a	n/a	S  1
+1595.4800000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1596.0460000000	n/a	n/a	Fixation	n/a	n/a	S100
+1596.9780000000	n/a	n/a	Stimulus (Left, Right, Up): Y,Z,X	n/a	n/a	S131
+1597.4920000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1597.9640000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1598.5320000000	n/a	n/a	Fixation	n/a	n/a	S100
+1599.5120000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1600.0000000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1600.2660000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1600.8340000000	n/a	n/a	Fixation	n/a	n/a	S100
+1601.6840000000	n/a	n/a	Stimulus (Left, Right, Up): Y,X,Z	n/a	n/a	S113
+1602.2120000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1602.5020000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1603.0680000000	n/a	n/a	Fixation	n/a	n/a	S100
+1604.1000000000	n/a	n/a	Stimulus (Left, Right, Up): Z,X,Y	n/a	n/a	S212
+1604.5200000000	n/a	n/a	Response: Left	n/a	n/a	S  2
+1604.8200000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1605.3860000000	n/a	n/a	Fixation	n/a	n/a	S100
+1606.3580000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1606.8560000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1607.1380000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
+1607.7060000000	n/a	n/a	Fixation	n/a	n/a	S100
+1608.5660000000	n/a	n/a	Stimulus (Left, Right, Up): Z,Y,X	n/a	n/a	S221
+1609.1480000000	n/a	n/a	Response: Right	n/a	n/a	S  3
+1609.4900000000	n/a	n/a	Feedback Win: "+1"	n/a	n/a	S  5
