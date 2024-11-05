@@ -8,3 +8,4 @@
 CHANGES annex.largefiles=nothing
 README annex.largefiles=nothing
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+EEG_Three_armed_bandit_gambling_task.ipynb filter=lfs diff=lfs merge=lfs -text
