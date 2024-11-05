@@ -1,1 +1,2 @@
-
+# Comparative EEG Responses to Reward and Loss in  Three armed bandit Gambling Tasks
+This project explores how the brain responds differently to reward (winning) and loss outcomes (losing), focusing on specific brain wave responses known as event-related potentials (ERPs), such as Feedback-Related Negativity (FRN) and Reward Positivity (Rew-P). I will use MNE to visualize graphs that compare these responses.
