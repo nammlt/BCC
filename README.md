@@ -31,5 +31,5 @@ Dataset: [ds003458](https://openneuro.org/datasets/ds003458/versions/1.1.0)
 ## Acknowledgements
 Thank you for the opportunities and knowledge to implement this project. It couldn’t have been successful without my TAs, Sirapakit Limtragooltongchai (P'Pung) and Korrawiz Chotayapa (P'Ong), especially during Brain Code Camp.
 
-You can explore more on my Medium page.
+You can explore more information and results on my Medium page.
 https://medium.com/@fansssexo/comparative-eeg-responses-to-reward-and-loss-in-three-armed-bandit-gambling-tasks-39283d879e68
